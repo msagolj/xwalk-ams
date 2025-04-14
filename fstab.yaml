@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://proven-eagerly-kiwi.ngrok-free.app/bin/franklin.delivery/msagolj/aem-xwalk/main"
+    url: "https://proven-eagerly-kiwi.ngrok-free.app/bin/franklin.delivery/msagolj/xwalk-ams/main"
     type: "markup"
     suffix: ".html"
